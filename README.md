@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**JoshuaG353/JoshuaG353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Joshua!
 
-Here are some ideas to get you started:
+## About Me
+I am a **Computer Science Engineering student** at *Benemérita Universidad Autónoma de Puebla* (BUAP).  
+I am passionate about **software development**, both front-end and back-end, and I enjoy learning new technologies that help me grow as a developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are focused on:
+- Front-end development with modern frameworks  
+- Back-end development and database management  
+- Continuous learning and problem-solving  
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, C, C++, Java  
+- **Databases**: MySQL  
+- **Web Development**: HTML, CSS, JavaScript, Angular, Ionic  
+- **Version Control & Tools**: Git, Linux (Ubuntu, Mint)  
+
+---
+
+## 🌟 General Skills
+- Attention to Detail  
+- Team Collaboration  
+- Adaptability  
+- Continuous Learning  
+
+
+---
+
+## 🌍 Languages
+- **Spanish**: Native  
+- **English**: Intermediate  
+- **German**: Basic  
+
+---
+
+
+
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoshuaG353&theme=dark)](https://git.io/streak-stats)
+
+ 

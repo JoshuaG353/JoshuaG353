@@ -20,7 +20,7 @@ My interests are focused on:
 
 ---
 
-## 🌟 General Skills
+## 🌟 Soft Skills
 - Attention to Detail  
 - Team Collaboration  
 - Adaptability  
